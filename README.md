@@ -163,9 +163,7 @@ Mission:
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/revathi-9525/revathi-9525/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![Snake animation](https://github.com/revathi-9525/revathi-9525/blob/output/github-snake-dark.svg)
 
 ---
 
