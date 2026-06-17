@@ -149,23 +149,7 @@ Mission:
 
 ---
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=revathi-9525&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievement Matrix
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=revathi-9525&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # 📈 Neural Activity Graph
 
@@ -177,13 +161,11 @@ Mission:
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://github.com/revathi-9525/revathi-9525/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/revathi-9525/revathi-9525/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
